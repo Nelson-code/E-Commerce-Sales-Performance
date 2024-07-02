@@ -1,0 +1,20 @@
+Explored Data with Key Queries:
+
+1. Monthly/Quarterly/Half-yearly sales analysis
+2. Sales by price category
+3. Product color preference
+4. Impact of tax amount on purchases
+5. Effect of manufacturing time on product cost
+6. Top two product categories by sales
+7. Revenue and subcategory comparison for top categories (e.g., 'XL' size apparel revenue)
+8. Impact of single vs. multi-lingual product descriptions
+9. Relationship between customer income and buying behavior
+10. Predominant customers by age
+11. Gender-based sales trends
+12. Customer spending as a portion of income
+13. Annual customer signups
+14. Impact of festival sales on overall sales
+15. Average sales by weekday
+16. Sales on weekends vs. weekdays
+17. Total sales by country
+18. Customer locations (heatmap analysis)
