@@ -5,14 +5,14 @@
 
 Tech Stack: Python, PowerBI, DAX
 
-Project Phases
+# Project Phases
 
-1. Pre-Work Summary:
+# 1. Pre-Work Summary:
 
 Collaborated with Ezekiel Aleke on this project. Using e-commerce dataset organized into fact and dimension tables, including 60,000+ customer transactions and 26 features. Fact tables contain customer transactions, while dimension tables hold related descriptions.
 
 
-2. Data cleaning:
+# 2. Data cleaning:
    
 - Developed a k-medoids clustering model to fill missing categorical values in the color variable of the product dimension table.
 
@@ -25,7 +25,7 @@ Collaborated with Ezekiel Aleke on this project. Using e-commerce dataset organi
 - Extracted size values from product descriptions using exception handling to fill missing product size attributes.
 
 
-3. Explored data through queries, including:
+# 3. Explored data through queries, including:
 
 - Impact of festival sales on overall sales
 
@@ -44,7 +44,7 @@ Collaborated with Ezekiel Aleke on this project. Using e-commerce dataset organi
 - Comparison of weekend vs. weekday sales
 
 
-4. Solution Development:
+# 4. Solution Development:
 
 - Solved queries using Python libraries like numpy, pandas, matplotlib, and sci-kit learn.
 
@@ -53,7 +53,7 @@ Collaborated with Ezekiel Aleke on this project. Using e-commerce dataset organi
 
 Visualization Agenda:
 
-""Focused on user-friendly visuals, avoiding overuse or underuse of colors and information""
+# ""Focused on user-friendly visuals, avoiding overuse or underuse of colors and information""
 
 Process:
 
@@ -72,7 +72,7 @@ Process:
 - Developed a navigation page with icons from flaticons.com.
 
 
-5. Knowledge Presentation (Takeaways from analysis)
+# 5. Knowledge Presentation (Takeaways from analysis)
 
 1. Festival sales significantly contributed, especially from 2005-2007.
 
